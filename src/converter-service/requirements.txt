@@ -4,7 +4,7 @@ charset-normalizer==2.1.1
 decorator==4.4.2
 dill==0.3.6
 dnspython==2.2.1
-idna==3.4
+idna==3.7
 imageio==2.22.4
 imageio-ffmpeg==0.4.7
 isort==5.10.1
